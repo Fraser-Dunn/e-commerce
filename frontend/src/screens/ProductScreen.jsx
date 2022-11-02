@@ -7,7 +7,7 @@ import {
   ListGroup,
   Card,
   Button,
-  ListGroupItem,
+  //ListGroupItem,
 } from "react-bootstrap"
 import Rating from "../components/Rating"
 import products from "../products"
